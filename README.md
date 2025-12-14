@@ -1,2 +1,4 @@
 # AmixSharp
-AudioMixer for Ffmpeg in C#
+
+Wasapi AudioMixer for Ffmpeg in C#
+

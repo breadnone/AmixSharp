@@ -1,0 +1,12 @@
+c:\Users\stevp\Documents\AmixSharp\bin\Debug\net8.0-windows10.0.19041.0\AmixSharp.deps.json
+c:\Users\stevp\Documents\AmixSharp\bin\Debug\net8.0-windows10.0.19041.0\AmixSharp.dll
+c:\Users\stevp\Documents\AmixSharp\bin\Debug\net8.0-windows10.0.19041.0\AmixSharp.pdb
+c:\Users\stevp\Documents\AmixSharp\obj\Debug\net8.0-windows10.0.19041.0\AmixSharp.csproj.AssemblyReference.cache
+c:\Users\stevp\Documents\AmixSharp\obj\Debug\net8.0-windows10.0.19041.0\AmixSharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\stevp\Documents\AmixSharp\obj\Debug\net8.0-windows10.0.19041.0\AmixSharp.AssemblyInfoInputs.cache
+c:\Users\stevp\Documents\AmixSharp\obj\Debug\net8.0-windows10.0.19041.0\AmixSharp.AssemblyInfo.cs
+c:\Users\stevp\Documents\AmixSharp\obj\Debug\net8.0-windows10.0.19041.0\AmixSharp.csproj.CoreCompileInputs.cache
+c:\Users\stevp\Documents\AmixSharp\obj\Debug\net8.0-windows10.0.19041.0\AmixSharp.dll
+c:\Users\stevp\Documents\AmixSharp\obj\Debug\net8.0-windows10.0.19041.0\refint\AmixSharp.dll
+c:\Users\stevp\Documents\AmixSharp\obj\Debug\net8.0-windows10.0.19041.0\AmixSharp.pdb
+c:\Users\stevp\Documents\AmixSharp\obj\Debug\net8.0-windows10.0.19041.0\ref\AmixSharp.dll
